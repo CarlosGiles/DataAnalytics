@@ -14,8 +14,8 @@ Esta es una guía práctica del certificado profesional de Google Data Analytics
 * Compartir datos
 * Programación en R para análisis de datos
 
-Redes:
+#### Propiedad de Carlos Giles
 
-GitHub: CarlosGiles
-Twitter: @CharlyGVC
-Instagram: gilescharly
+* [LinkedIn Carlos Giles](https://www.linkedin.com/in/carlosgilesing/)
+* [Tweeter @CharlyGVC](https://twitter.com/CharlyGVC)
+* [Instagram gilescharly](https://www.instagram.com/gilescharly/)
