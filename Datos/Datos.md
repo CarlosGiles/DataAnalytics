@@ -58,3 +58,8 @@ Importante recirdar:
 
 ![ciencia](https://user-images.githubusercontent.com/92232878/177839020-80142783-c164-45b4-bf2d-41f2ff988ad6.png)
 
+#### Propiedad de Carlos Giles
+
+* [LinkedIn Carlos Giles](https://www.linkedin.com/in/carlosgilesing/)
+* [Tweeter @CharlyGVC](https://twitter.com/CharlyGVC)
+* [Instagram gilescharly](https://www.instagram.com/gilescharly/)
