@@ -7,7 +7,7 @@ Esta es una guía práctica del certificado profesional de Google Data Analytics
 ## Contenido
 
 * Datos
-* Toma de decisiones basadas en datos
+* Preguntar para tomar decisiones basadas en datos
 * Preparación de datos
 * Proceso de datos
 * Análisis de datos
