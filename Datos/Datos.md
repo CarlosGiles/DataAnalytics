@@ -32,3 +32,29 @@ Importante recordar:
 El proceso del análisis de datos se compone de seis importantes y ordenados pasos: preguntar, preparar, procesar, analizar, compartir y actuar.
 
 ![pasos](https://user-images.githubusercontent.com/92232878/177831884-99f14c9c-7f5c-4498-b45a-df0af177c4ec.png)
+
+## Ecosistema de datos
+
+Un ecosistema de datos es aquel que se compone de varios elementos que interactúan entre sí para realizar las siguientes acciones:
+
+* Producir datos
+* Gestionar datos
+* Almacenar datos
+* Organizar datos
+* Analizar datos
+* Compartir datos
+
+## Diferencia entre **Data Science** y **Data Analytics**
+
+**Data Science** (Ciencia de Datos) es la creación de nuevas formas de modelar y entender lo desconocido mediante el uso de datos sin procesar. Los científicos crean nuevas preguntas con los datos y los analistas dan respuesta a las preguntas existentes, creando información a partir de las fuentes de datos.
+
+## Diferencia entre **Data Analysis** y **Data Analytics**
+
+Como se mencionó anteriormente, **Data Analysis** (análisis de datos) es el proceso de recopilar. transformar y organizar datos para sacar conclusiones, hacer predicciones y tomar decisiones informadas. **Data Analytics** (análisis computacional) es un concepto más amplio que, de hecho, abarca al **Data Analysis**. **Data Analytics** va desde el trabajo de gestión, uso de datos, herramientas y métodos que los trabajadores de datos usan cada día.
+
+Importante recirdar:
+
+![computa](https://user-images.githubusercontent.com/92232878/177838235-4ecd54d6-5997-4fe4-923c-2327e1485c62.png)
+
+![ciencia](https://user-images.githubusercontent.com/92232878/177839020-80142783-c164-45b4-bf2d-41f2ff988ad6.png)
+
