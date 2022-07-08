@@ -64,6 +64,26 @@ El Data-Driven Decision-Making (**toma de decisiones basadas en datos**) es la g
 
 ## Datos y conocimiento empresarial
 
+A medida que se obtine experiencia trabajamdo con datos, es normal que el analista desarrolle el **instinto** (comprensión intuitiva de algo con poca o ninguna explicación). Esto pude ser un problema, ya que su trabajo se basa en la toma de decisiones informadas, basadas en datos. Si ignoramos los datos y preferimos tomar decisiones basadas en propia experiencia, las decisiones pueden ser sesgadas. Pero lo que es peor, las decisiones basadas en el instinto, sin datos para respaldarlas, pueden generar errores.
+
+Combinar datos con conocimiento empresarial, además de un toque de instinto, es parte del proceso como analista de datos junior. La clave está en averiguar la combinación exacta de cada proyecto en particular. Muchas veces, dependerá de los objetivos de tu análisis. Por eso, como analista debemos definir el éxito de un proyecto:
+
+* ¿Qué tipo de resultados se necesitan?
+* ¿A quién se informará?
+* ¿Estoy respondiendo la pregunta que se está haciendo?
+* ¿Con qué rapidez hay que tomar una decisión?
+
+# Ciclo de vida del análisis de datos
+
+Este ciclo es el proceso para pasar de datos a la decisión parasando por varios estados: se crean, consumen, prueban, procesan y reutilizan. Es posible que no haya una única arquitectura a seguir de manera uniforme por todos los expertos en análisis de datos, pero que existan algunos fundamentos compartidos en cada proceso de análisis de datos. Para enfoque de una analista de datos, este ciclo de vida equivale al proceso de anáñisis de datos visto anteriormente:
+
+* Preguntar
+* Preparar
+* Procesar
+* Analizar
+* Compartir
+* Actuar
+
 #### Propiedad de Carlos Giles
 
 <a href="https://twitter.com/charlygvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charlygvc" height="30" width="40" /></a> [@CharlyGVC](https://twitter.com/CharlyGVC)
