@@ -58,6 +58,12 @@ Importante recirdar:
 
 ![ciencia](https://user-images.githubusercontent.com/92232878/177839020-80142783-c164-45b4-bf2d-41f2ff988ad6.png)
 
+## Data-Driven Decision-Making
+
+El Data-Driven Decision-Making (**toma de decisiones basadas en datos**) es la guía por excelencia de la estrategia empresarial. Para ello, primero se debe descubrir la necesidad de negocio, ya sea con datos de estrategias pasadas o para guiar un negocio hicia una nueva dirección.
+
+## Datos y conocimiento empresarial
+
 #### Propiedad de Carlos Giles
 
 <a href="https://twitter.com/charlygvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charlygvc" height="30" width="40" /></a> [@CharlyGVC](https://twitter.com/CharlyGVC)
